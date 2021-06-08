@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1588905577 source:c:\users\daniels\documents\c++\school\cs302\dijkstrasalgorithm\graph.cpp
+	"Graph.h"
+
+1588905694 c:\users\daniels\documents\c++\school\cs302\dijkstrasalgorithm\graph.h
+	<iostream>
+	<vector>
+	<list>
+
+1588905676 source:c:\users\daniels\documents\c++\school\cs302\dijkstrasalgorithm\main.cpp
+	<iostream>
+	"Graph.h"
+
